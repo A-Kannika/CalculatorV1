@@ -4,6 +4,7 @@
  * Programming assignment: Develop Multi-Function Calculator Version 1
  * Check inour for all calculator
  * Professor. Kivanç A. Dincer, Ph.D.
+ * The University of Washington Tacoma
  */
 
 
