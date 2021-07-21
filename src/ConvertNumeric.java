@@ -4,6 +4,7 @@
  * Programming assignment: Develop Multi-Function Calculator Version 1
  * Convert Numeric
  * Professor. Kivanç A. Dincer, Ph.D.
+ * The University of Washington Tacoma
  */
 
 public class ConvertNumeric extends NumericCalculator{
